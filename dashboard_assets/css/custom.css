@@ -1,0 +1,45 @@
+/* Write your custom CSS here */
+
+/* cs for custome */
+
+.bg-primary-cs{
+    background-color: #0d141f;
+}
+
+.color-cs{
+    color: #ffffff !important;
+}
+
+.btn-cs{
+    background-color: #a8741a !important;
+}
+
+.dropify-wrapper{
+    background-color: #24344d !important;
+    border: 1px solid #324462 !important;
+}
+
+.panel-title{
+    font-size: 1.5em !important;
+}
+
+
+.img-box{
+    /* border: 1px solid red; */
+    height: 17em;
+    width: 100%;
+    overflow: hidden;
+}
+.img-box img{
+    height: 19em;
+}
+
+
+.dashboard-panel{
+    height: 4em !important;
+}
+
+
+.myTable td, th {
+    text-align: center !important;
+}
